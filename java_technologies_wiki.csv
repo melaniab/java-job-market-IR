@@ -1,0 +1,236 @@
+technology ,description
+fleXive,"Next-generation content repository. It provides a stable and fast store for documents, images, and structured data."
+Jspx,Jspx is a free open source java web framework.
+OpenXava,AJAX Java Framework for Rapid Development of Enterprise Web Applications
+crawler4j,open source web crawler for Java which provides a simple interface for crawling the Web.
+Apache Nutch,"Nutch is a well matured, production ready Web crawler."
+HK2,A light-weight and dynamic dependency injection framework
+Dagger,A fast dependency injector for Android and Java
+Dagger2,"Replacement of the now obsolete Dagger, by Google"
+AppFuse,open-source Java EE web application framework.
+JLisa,Rule engine accessible from Java with the full power of Common Lisp
+Drools,"Business rule management system (BRMS) with a forward and backward chaining inference based rules engine, using an enhanced implementation of the Rete algorithm."
+Easy Rules,Easy Rules is a simple yet powerful Java rules engine
+jBPM,Flexible Business Process Management (BPM) Suite
+Jeddict,"Graphical tool that enhances productivity and simplifies development tasks of creating complex entity relationship models and create JPA class, visualize & modify Database and automates Java EE 8 code generation."
+ActFramework,A full stack Java Web framework
+Activiti,Workflow engine written in Java that can execute business processes described in BPMN 2.0.
+Akka,Toolkit and runtime simplifying the construction of concurrent and distributed applications on the JVM.
+Android Plot,Androidplot is a library for creating dynamic and static charts in your Android app.
+Annotation Command Framework,(ACF) is a framework for command processors to validate user supplied command input and map it to objects. Commands are added as methods and configured with annotations. Abstract core can be bound to any java application that can receive command intentions.
+Apache Accumulo,"Distributed key/value store that provides robust, scalable data storage and retrieval."
+Apache ActiveMQ,Messaging and Integration Patterns server.
+Apache Avalon,"An application server component framework, includes logging, thread pooling, and scheduling."
+Apache Avro,Remote procedure call and data serialization framework developed within Apache's Hadoop project.
+Apache Axis,Implementation of the SOAP (Simple Object Access Protocol) submission to W3C
+Apache Blur,Large scale search system built on Apache Lucene and Apache Hadoop.
+Apache BookKeeper,Replicated log service which can be used to build replicated state machines.
+Apache Camel,Rule-based routing and mediation engine that provides a Java object-based implementation of the Enterprise Integration Patterns using an API to configure routing and mediation rules.
+Apache Cayenne,"Powerful, full-featured, open-source object relational mapping framework created for developers working with relational databases."
+Apache Click,Component oriented web application framework for the Java language and is built on top of the Java Servlet API
+Apache Cocoon,"Web application framework built around the concepts of pipeline, separation of concerns and component-based web development."
+Apache Commons,Collection of open source reusable Java components from the Apache/Jakarta community
+Apache Crunch,"Framework for writing, testing, and running MapReduce pipelines. Its goal is to make pipelines that are composed of many user-defined functions simple to write, easy to test, and efficient to run."
+Apache CXF,"Services framework. CXF helps to build and develop services using frontend programming APIs, like JAX-WS and JAX-RS."
+Apache DataFu,Collection of libraries for working with large-scale data in Hadoop.
+Apache Empire DB,Relational database abstraction layer and data persistence component that allows developers to take a much more SQL-centric approach in application development than traditional Object-relational mapping frameworks.
+Apache Felix,Apache Felix is a community effort to implement the OSGi Framework and Service platform and other interesting OSGi-related technologies under the Apache license.
+Apache Flume,"Distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data."
+Apache Geronimo,Open source server runtime that integrates the best open source projects to create Java/OSGi server runtimes that meet the needs of enterprise developers and system administrators
+Apache Giraph,Iterative graph processing system built for high scalability.
+Apache Hadoop,Framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models.
+Apache HBase,"Non-relational, distributed database modeled after Google's BigTable"
+Apache Hive,Component of Hortonworks Data Platform(HDP). Hive provides a SQL-like interface to data stored in HDP.
+Apache JackRabbit,Content repository for the Java platform.
+Apache JavaNlp,Java machine learning toolkit for natural language processing (NLP).
+Apache Jena,Web framework for building Semantic web apps in Java. It provides an API to extract data from and write to RDF graphs
+Apache Kafka,Stream processing platform
+Apache Log4j,Java logging framework - Log4j 2 is the enhanced version of the popular Log4j project.
+Apache Lucene,"High-performance, full-featured text search engine library."
+Apache Mahout,"Project of the Apache Software Foundation to produce free implementations of distributed or otherwise scalable machine learning algorithms focused primarily in the areas of collaborative filtering, clustering and classification."
+Apache Maven,"Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information."
+Apache Mesos,"Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively."
+Apache Mina,"Java network application framework. MINA can be used to create scalable, high performance network applications."
+Apache OODT,Data management system framework
+Apache Oozie,Server-based workflow scheduling system to manage Hadoop jobs.
+Apache OpenNLP,Java machine learning toolkit for natural language processing (NLP).
+Apache PDFBox,Java tool for working with PDF documents.
+Apache Pig,High-level platform for creating programs that run on Apache Hadoop.
+Apache Pivot,Platform for building rich web applications in Java or any JVM-compatible language.
+Apache POI,APIs for manipulating various file formats based upon Microsoft's OLE 2 Compound Document format.
+Apache Qpid,"Messaging system, implements the Advanced Message Queuing Protocol."
+Apache River (Jini),Apache River is a project furthering the development and advancement of Jini technology. River is the implementation of Jini service oriented architecture.
+Apache Samza,Distributed stream processing framework.
+Apache Shiro,"Powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management."
+Apache Sling,Web framework for the Java platform designed to create content-centric applications on top of a JSR-170-compliant (a.k.a. JCR) content repository such as Apache Jackrabbit.
+Apache Solr,Enterprise search platform
+Apache Spark,"Fast and general engine for big data processing, with built-in modules for streaming, SQL, machine learning and graph processing."
+Apache Storm,Distributed realtime computation system.
+Apache Struts,Framework for building Servlet/JSP based web applications based on the MVC design paradigm
+Apache Tapestry,Component-oriented Java web application framework
+Apache Tika,Content detection and analysis framework.
+Apache Tomcat,"Tomcat Server, is an open-source Java Servlet Container"
+Apache Turbine,Web application development framework to facilitate building secure web applications.
+Apache Uima,"Unstructured Information Management Architecture, is an OASIS standard for content analytics. It provides a component software architecture for the development, discovery, composition, and deployment of multi-modal analytics for the analysis of unstructured information and integration with search technologies."
+Apache UserGrid,"Backend-as-a-Service (“BaaS” or “mBaaS”) composed of an integrated distributed NoSQL database, application layer and client tier with SDKs for developers looking to rapidly build web and/or mobile applications."
+Apache Velocity,Java-based template engine that provides a template language to reference objects defined in Java code
+Apache VXQuery,Standards-compliant XML Query processor that is implemented in Java
+Apache Wicket,Component-oriented Java web application framework.
+Apache Wink,Apache Wink is an open source framework that enables development and consumption of REST style web services.
+Apache Xerces,"Collection of software libraries for parsing, validating, serializing and manipulating XML."
+Apache Zookeeper,"Centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services."
+Axon,The axon framework is focussed on making life easier for developers that want to create a java application based on the CQRS principles.
+Barracuda,MVC web application framework for developing Java EE web applications.
+Beads,Library written in Java for realtime audio.
+Birt,Reporting and business intelligence tool for rich client and web applications
+BigFaceless,BFO develop Java APIs for working with PDF documents and Graphs.
+BioJava,Java framework for processing biological data.
+BlueCove,Java library for Bluetooth (JSR-82 implementation)
+Bouncy Castle Cryptographic,Collection of APIs used in cryptography. It includes APIs for both the Java and the C# programming languages.
+Cascading,Abstraction layer for Apache Hadoop and Apache Flink. Cascading is used to create and execute complex data processing workflows on a Hadoop cluster using any JVM-based language.
+Checker,Checker Framework lets software developers detect and prevent errors in their Java programs.
+CogCompNLP,"A suit of NLP annotators, POS, NER, SRL, etc."
+CodeName One,"Set of software development tools aiming to provide ›Write Once, Run Anywhere‹ code for various desktop and mobile operating systems (like Windows, macOS, Android, Blackberry, iOS and others)."
+ControlsFX,ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution.
+Deeplearning4j,Open-Source Deep-Learning Software for Java and Scala on Hadoop and Spark.
+DirectWebRemoting,library that enables Java on the server and JavaScript in a browser to interact and call each other as simply as possible.
+DropWizard Jersey,RESTful web services
+Eclipse Scout,"Web application framework based on Java, HTML5 and JavaScript. Scout applications are written against a plain Java application model."
+EclipseLink,"Java persistence solution addressing relational, XML, and database web services."
+EHCache,"Ehcache is an open source, standards-based cache that boosts performance, offloads your database, and simplifies scalability."
+Ejml (Efficient Java Matrix Library),Java linear algebra library for manipulating dense matrices.
+Facebook4j,"Facebook4J is an open-sourced, mavenized Java library. With Facebook4J, you can easily integrate your application with the Facebook API"
+FMJ,"FMJ is an open-source project with the goal of providing an alternative to Java Media Framework (JMF), while remaining API-compatible with JMF. It aims to produce a single API/Framework which can be used to capture, playback, process, and stream media across multiple platforms."
+Frame4j,Frame4J is a powerful infrastructure to build upon standalone and distributed applications and tools.
+FreeMarker Template,"Java-based Template Engine, originally focusing on dynamic web page generation with MVC software architecture"
+GCViewer,Java profiling tool for performance Tuning
+GeoApi,Set of Java language programming interfaces for geospatial applications.
+GeoTools,Java library that provides tools for geospatial data.
+GlassFish,Application server and official reference implementation for Servlets 3.0.
+Google Gson,Library to serialize and deserialize Java objects to (and from) JSON.
+Google Guava,"Set of common libraries, it facilitates best coding practices and helps reduce coding errors. It provides utility methods for collections, caching, primitives support, concurrency, common annotations, string processing, I/O, and validations."
+Google Guice,Lightweight dependency injection framework for Java 6 and above
+Google Web Toolkit (GWT),Set of tools that allows web developers to create and maintain complex JavaScript front-end applications in Java.
+GStreamer,"Library for constructing graphs of media-handling components. The applications it supports range from simple Ogg/Vorbis playback, audio/video streaming to complex audio (mixing) and video (non-linear editing) processing."
+GXT,Java framework for building feature-rich web applications for both desktops and tablets.
+Hibernate,Object-relational mapping tool for the Java programming language. It provides a framework for mapping an object-oriented domain model to a relational database.
+HSQLDB,"RDBMS with JDBC interface, client-server version, query tool, grid, tree, performance test class, servlet, and self-test program."
+iBatis,"Persistence framework which automates the mapping between SQL databases and objects in Java, .NET, and Ruby on Rails."
+Infinispan,Distributed in-memory key/value data store with optional schema
+IText,"Dynamic PDF generation and manipulation for web- and other applications (Java, C#)."
+Jackcess,Library for reading and writing MS Access databases.
+Jackson,High-performance JSON processor for Java.
+Javalin,"A very lightweight web framework which supports modern features like HTTP2, WebSockets, and asynchronous requests. Servlet based."
+Java Collections Framework,The Java Collections Framework (JCF) is a set of classes and interfaces that implement commonly reusable collection data structures.
+Java Media Framework,"The Java Media Framework (JMF) is a Java library that enables audio, video and other time-based media to be added to Java applications and applets."
+JavAssist,Library providing a means to manipulate the Java bytecode of an application.
+Javers,JaVers is a lightweight java library for auditing changes in your data.
+JaxP,"Java XML Application programming interfaces (API)s, provides the capability of validating and parsing XML documents."
+JBoss Seam,Web application framework developed by JBoss
+JCabi,"Collection of small and useful Java components, which are not big enough to make their own projects."
+JDom,Java-based document object model for XML
+Jello,Jello is a Java Application Framework optimized for Google App Engine.
+Jersey,"Jersey RESTful Web Services framework, implementstion of JAX-RS"
+Jetty,Java HTTP (Web) server and Java Servlet container.
+JFreeChart,Java chart library that makes it easy for developers to display professional quality charts in their applications.
+JHipster,"JHipster is a development platform to generate, develop and deploy Spring Boot + Angular Web applications and Spring microservices."
+JideSoft,"Java UI component provider using technologies such as Swing, JavaFX and Javascript/HTML5."
+JMock,Mock objects help you design and test the interactions between the objects in your programs.
+JMonkeyEngine,"Game engine made especially for modern 3D development, as it uses shader technology extensively."
+Joda-Time,Quality replacement for the Java date and time classes.
+Jodd,Jodd is set of micro-frameworks and developer-friendly tools and utilities.
+JogAmp,"JogAmp is the home of high performance Java libraries for 3D Graphics, Multimedia and Processing. JOGL, JOCL and JOAL provide cross platform Java language bindings to the OpenGL, OpenCL, OpenAL and OpenMAX APIs."
+Jooby,"Scalable, fast and modular micro web framework for Java."
+Jppf,JPPF makes it easy to parallelize computationally intensive tasks and execute them on a Grid.
+JProfiler,Java profiling tool for performance Tuning
+JRockit,Java profiling tool for performance Tuning
+JSF,Java specification for building component-based user interfaces for web applications.
+JsonLib,"Java library for transforming beans, maps, collections, java arrays and XML to JSON and back again to beans and DynaBeans."
+JSoup,"Java HTML parser library. Supports extracting and manipulating data using DOM, CSS, and JQuery methods."
+JSyn,JSyn allows you to develop interactive computer music programs in Java.
+JTS Topology,Java software library that provides an object model for Euclidean planar linear geometry together with a set of fundamental geometric functions.
+JUnit,Unit testing framework
+LiquiBase,"Liquibase is an open source database-independent library for tracking, managing and applying database schema changes."
+LogBack,"Logging framework, successor to the popular log4j project"
+Lombok,Java annotation library which helps to reduce boilerplate code and code faster
+LoopJ,An asynchronous callback-based Http client for Android built on top of Apache’s HttpClient libraries.
+LWJGL,"Java library that enables cross-platform access to popular native APIs such as OpenGL, OpenAL, and OpenCL."
+MapDB,"MapDB provides Java Maps, Sets, Lists, Queues and other collections backed by off-heap or on-disk storage. It is a hybrid between java collection framework and embedded database engine."
+Mockito,"Unit testing framework for Java, framework allows the creation of test double objects (mock objects) in automated unit tests for the purpose of Test-driven Development (TDD) or Behavior Driven Development (BDD)."
+MyBatis,"First class persistence framework with support for custom SQL, stored procedures and advanced mappings."
+ND4J,Scientific computing libraries for the JVM.
+Netty,Netty is a non-blocking I/O (NIO) client-server framework for the development of Java network applications such as protocol servers and clients.
+Neuroph,Java neural network framework which supports common neural network architectures and learning rules.
+Ninja,Full stack web framework for Java.
+OpenCSV,Very simple csv (comma-separated values) parser library for Java.
+OpenCV,Library of programming functions mainly aimed at real-time computer vision.
+Oracle WebLogic,Java EE application server
+OrientDB,"NoSQL database management system written in Java. It is a multi-model database, supporting graph, document, key/value, and object models but the relationships are managed as in graph databases with direct connections between records."
+ORMLite,"Object Relational Mapping Lite (ORM Lite) provides some simple, lightweight functionality for persisting Java objects to SQL databases while avoiding the complexity and overhead of more standard ORM packages."
+Payara Server,Payara Server is an open source application server derived from GlassFish.
+PI4J,The Pi4J Project provides Java programmers full IO control of a Raspberry Pi.
+Play,"Play Framework makes it easy to build web applications with Java & Scala. Play is based on a lightweight, stateless, web-friendly architecture."
+PrimeFaces,User interface (UI) component library for JavaServer Faces (JSF) based applications.
+Quartz,Job scheduling library that can be integrated into a wide variety of Java applications.
+Quasar,Framework to build desktop & phone/tablet apps simultaneously.
+RabbitMQ,Message broker software that implements the Advanced Message Queuing Protocol (AMQP).
+Ratpack,"Ratpack apps are lightweight, fast, composable with other tools and libraries, easy to test and enjoyable to develop."
+Reactor,"Reactor is a fully non-blocking foundation with efficient demand management. It directly interacts with Java 8 functional API, Completable Future, Stream and Duration."
+RESTeasy,Jboss implementation of Jax-RS
+RestFB,Simple and flexible Facebook Graph API client written in Java.
+Restlet,Restlet Framework helps Java developers build better web APIs that follow the REST architecture style.
+Sax,"Event-driven online algorithm for parsing XML documents, with an API developed by the XML-DEV mailing list."
+ScribeJava,Simple OAuth client Java library
+Selenide,Framework for test automation powered by Selenium WebDriver
+Selenium,Portable software-testing framework for web applications.
+SLF4J,Simple Logging Facade for Java (SLF4J) serves as a simple facade or abstraction for various logging frameworks.
+Slick2D,Slick2D is an easy to use set of tools and utilities wrapped around LWJGL OpenGL bindings to make 2D Java game development easier.
+Smack,Smack is an Open Source XMPP (Jabber) client library.
+SonarLint,SonarLint is an extension to your favorite IDE that provides on-the-fly feedback to developers on new bugs and quality issues injected into their code.
+SonarQube,Platform for continuous inspection of code quality.
+Jasper Reports,"Java reporting tool that can write to a variety of targets, such as: screen, a printer, into PDF, HTML, Microsoft Excel, RTF, ODT, Comma-separated values or XML files."
+Spock,Testing and specification framework for Java and Groovy applications.
+Spring AMQP,The Spring AMQP project applies core Spring concepts to the development of AMQP-based messaging solutions
+Spring Android,Framework that is designed to provide components of the Spring family of projects for use in Android apps
+Spring AOP(Aspect Oriented Programming),Aspect-oriented programming enables implementing cross-cutting concerns.
+Spring Batch,Reusable functions for processing large volumes of records
+Spring Boot,Framework that used for building and deploying the production grade spring applications with minimal effort
+Spring Core,This is the base module of Spring and provides spring containers (BeanFactory and ApplicationContext).
+Spring Data,"Spring Data’s mission is to provide a familiar and consistent, Spring-based programming model for data access while still retaining the special traits of the underlying data store."
+Spring Data JDBC Extensions,The JDBC support in the Spring Framework is extensive and covers the most commonly used features.
+Spring Data MongoDB,Spring Data for MongoDB is part of the umbrella Spring Data project which aims to provide a familiar and consistent Spring-based programming model for new datastores while retaining store-specific features and capabilities.
+Spring Data Neo4j,Spring Data Neo4j offers advanced features to map annotated entity classes to the Neo4j Graph Database.
+Spring Hateoas,Library to support implementing representations for hyper-text driven REST web services.
+Spring Integration,Framework for enterprise application integration.
+Spring LDAP,"library for simplifying LDAP operations, based on the pattern of Spring's JdbcTemplate."
+Spring MVC,An action-based web framework built on top of the Spring IOC Container.
+Spring Roo,Spring Roo is an open source software tool that uses convention-over-configuration principles to provide rapid application development of Java-based enterprise software
+Spring Security,Powerful and highly customizable authentication and access-control framework
+Spring Session,API and implementations for managing a user's session information.
+Spring Social,"Connect Spring application with Software-as-a-Service (SaaS) API providers such as Facebook, Twitter, and LinkedIn."
+Spring XD,"Unified, distributed, and extensible system for data ingestion, real-time analytics, batch processing"
+Stormpath,Powerful user management with authentication and authorization for any application.
+StringTemplate,"StringTemplate is a java template engine for generating source code, web pages, emails, or any other formatted text output."
+SuanShu,"Object-oriented, high-performance, extensively tested, and professionally documented math library."
+TestNG,JUnit-inspired test framework with extra functionality.
+Thymeleaf,Java XML/XHTML/HTML5 template engine that can work both in web (Servlet-based) and non-web environments
+Twitter4J,"With Twitter4J, one can easily integrate your Java application with the Twitter service. Twitter4J is an unofficial library."
+Vaadin,Web framework for rich Internet applications. In contrast to JavaScript libraries and browser-plugin based solutions
+Vertx,Polyglot event-driven application framework that runs on the Java Virtual Machine.
+VRaptor,Opensource MVC framework
+Webfirmframework,Opensource framework for realtime internet applications. It is also known as server-controlled web UI framework.
+WildFly,"Application server implements the Java Platform, Enterprise Edition (Java EE) specification."
+WordCram,"WordCram lets you generate word clouds in Processing. It does text analysis, collision detection."
+WSO2 API Manager,"API management platform for creating, deploying and managing APIs to expose data and functionality of backend systems"
+WSO2 App Manager,Complete solution for publishing and managing all aspects of an application and its lifecycle.
+WSO2 ESB,Allows developers to connect and manage systems and software in accordance with SOA Governance principles.
+WSO2 Governance Registry,"Enterprise-ready open source product for storing, cataloging, indexing, managing and governing your enterprise metadata related to any kind of asset."
+WSO2 Identity Server,"Central backbone that connects and manages multiple identities across applications, APIs, the cloud, mobile, and Internet of Things devices, regardless of the standards on which they are based."
+WSO2 Machine Learner,"WSO2 Machine Learner takes data one step further, pairing data gathering and analytics with predictive intelligence"
+WSO2 Message Broker,"Lightweight, easy-to-use, distributed message-brokering server."
+Xuggler,"Xuggler is the easy way to uncompress, modify, and re-compress any media file (or stream) from Java."
+ZKoss,"Ajax Web application framework, written in Java"
+Prova,"JVM based, open source rule language for reactive agents and event processing."
+OpenRules,Business Rules and Decision Management System
+JRuleEngine,"Rule engine, based on Java Specification Request 94, release 1.1."
+Jess,Rule engine and scripting environment
